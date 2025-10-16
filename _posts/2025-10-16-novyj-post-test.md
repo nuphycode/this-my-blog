@@ -7,3 +7,9 @@ author:
   name: Вадим Соколов
 ---
 новый _пост_ [**тест**](https://ya.ru/)
+
+\[текст ссылки\]([https://example.com](https://example.com) "Заголовок ссылки")
+
+[https://example.com](https://example.com)
+
+\[Google\]([https://google.com](https://google.com))
